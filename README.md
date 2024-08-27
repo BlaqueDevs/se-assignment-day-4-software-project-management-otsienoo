@@ -47,6 +47,7 @@ Variance Analysis: Perform variance analysis to understand why any differences b
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile is best suited for projects with evolving requirements, a need for frequent feedback, and a high degree of uncertainty. It promotes flexibility, collaboration, and continuous improvement, making it ideal for software development, product design, and other dynamic environments.
+
 Waterfall is better suited for projects with well-defined requirements, a clear scope, and a need for structured, sequential development. It emphasizes detailed planning, documentation, and adherence to a fixed plan, making it appropriate for projects such as construction and regulatory-compliant systems.
 
 Agile Methodology
